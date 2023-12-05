@@ -1,0 +1,234 @@
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.pdb
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.AssemblyReference.cache
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CopyComplete
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.AssemblyReference.cache
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CopyComplete
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.pdb
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.pdb
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Helpers.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.pdb
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.xml
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.AssemblyReference.cache
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CoreCompileInputs.cache
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CopyComplete
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.dll
+D:\Descargas\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.AssemblyReference.cache
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CopyComplete
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Helpers.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.pdb
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CopyComplete
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\VeterinariaSmilesPrueba.pdb
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Helpers.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\DifficilBankDAO.pdb
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.Helpers.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.Razor.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.Data.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\bin\Debug\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.csproj.CopyComplete
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinariaSmilesPrueba\obj\Debug\VeterinariaSmilesPrueba.pdb

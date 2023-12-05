@@ -1,0 +1,694 @@
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\Juanka\OneDrive\Documentos\UnivalleDifissilBank2\Univalle\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juanka\OneDrive\Escritorio\Univalle\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\csc.exe
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\csi.exe
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Descargas\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+D:\Descargas\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+D:\Descargas\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+D:\Descargas\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+D:\Descargas\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\itextsharp.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Buffers.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Collections.Immutable.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Memory.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Numerics.Vectors.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Reflection.Metadata.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\itextsharp.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Buffers.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Collections.Immutable.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Memory.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Numerics.Vectors.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Reflection.Metadata.xml
+C:\Users\Juanka\OneDrive\Escritorio\Proyectos\Proyecto\Proyecto\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\itextsharp.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Buffers.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Memory.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\itextsharp.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Buffers.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Memory.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Reflection.Metadata.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\admin\Desktop\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\itextsharp.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Buffers.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Collections.Immutable.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Memory.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Numerics.Vectors.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Reflection.Metadata.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\itextsharp.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Buffers.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Collections.Immutable.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Memory.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Numerics.Vectors.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Reflection.Metadata.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\Juanka\Downloads\InfoDiabetes\VeterinariaSmilesPrueba\VeterinarySmiles_Web\bin\itextsharp.xmlworker.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\itextsharp.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\itextsharp.xmlworker.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Buffers.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Memory.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\itextsharp.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Buffers.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Memory.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Reflection.Metadata.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\admin\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll.config
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\VeterinarySmiles_Web.pdb
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csc.exe
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csc.exe.config
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csc.rsp
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csi.exe
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csi.exe.config
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\csi.rsp
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.AppContext.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Console.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Net.Http.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\vbc.exe
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\vbc.exe.config
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\vbc.rsp
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\BouncyCastle.Crypto.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\DifficilBankDAO.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\itextsharp.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\itextsharp.xmlworker.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.Web.Helpers.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Buffers.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Collections.Immutable.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Memory.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Numerics.Vectors.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Reflection.Metadata.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Helpers.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Razor.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.Data.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.WebData.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\DifficilBankDAO.pdb
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\itextsharp.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Buffers.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Collections.Immutable.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Memory.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Numerics.Vectors.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Reflection.Metadata.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Helpers.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.Razor.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.Data.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\WebMatrix.WebData.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.csproj.CopyComplete
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.dll
+C:\Users\aleja\Desktop\proyecto 2\VeterinarySmiles_Web\obj\Debug\VeterinarySmiles_Web.pdb

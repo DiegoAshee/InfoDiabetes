@@ -1,0 +1,136 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteVeterinario.master.cs" Inherits="VeterinarySmiles_Web.SiteVeterinario" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+
+     <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="plugins/fontawesome-free/css/all.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="dist/css/adminlte.min.css">
+
+
+
+
+     <style>
+
+        .fondo{
+            background-color:#2a3547;
+        }
+
+        .degradado {
+  background-image: linear-gradient(to bottom, #000080, #00008B);
+}
+
+    </style>
+
+
+
+</head>
+<body class="fondo">
+    
+<!-- Navbar -->
+  <nav class="main-header navbar navbar-expand navbar-light" >
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+      </li>
+
+        <li class="nav-item d-none d-sm-inline-block">
+        <a href="HomePage.aspx" class="nav-link">Inicio</a>
+      </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="WebMenuCliente.aspx" class="nav-link">Recomendarme una Dieta</a>
+      </li>
+        <li class="nav-item d-none d-sm-inline-block" style="text-align:right">
+        <a href="WebLogOut.aspx" class="nav-link"><i class="nav-icon fas fa-sign-out-alt"></i>Cerrar Sesion</a>
+
+      </li>
+    </ul>
+
+    <!-- Right navbar links -->
+    
+  </nav>
+  <!-- /.navbar -->
+
+
+    <aside class="main-sidebar fondo elevation-4">
+    <!-- Brand Logo -->
+    <a href="HomePage.aspx" class="brand-link">
+      <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <span class="brand-text font-weight-light">InfoDiabetes</span>
+    </a>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <!-- Sidebar user panel (optional) -->
+
+      <!-- SidebarSearch Form -->
+     
+
+      <!-- Sidebar Menu -->
+      <nav class="mt-2">
+        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <!-- Add icons to the links using the .nav-icon class
+               with font-awesome or any other icon font library -->
+          
+          <li class="nav-item">
+            <a href="HomePage.aspx" class="nav-link">
+              <i class="nav-icon fa fa-home"></i>
+              <p>
+                Inicio               
+              </p>
+            </a>
+          </li>
+
+
+        <li class="nav-item">
+            <a href="WebMenuCliente.aspx" class="nav-link">
+              <i class="fas fa-utensils" ></i>
+              <p>
+                Quiero una Dieta            
+              </p>
+            </a>
+          </li>
+            
+         <li class="nav-item">
+            <a href="WebUpdatePassword.aspx" class="nav-link">
+               <i class="fas fa-lock"></i>
+              <p>
+                Cambio de Contraseña             
+              </p>
+            </a>
+          </li>
+
+        </ul>
+      </nav>
+      <!-- /.sidebar-menu -->
+    </div>
+    <!-- /.sidebar -->
+  </aside>
+
+
+    <div class="content-wrapper">
+
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+
+    </div>
+     <script src="plugins/jquery/jquery.min.js"></script>
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="dist/js/adminlte.min.js"></script>
+
+
+</body>
+</html>

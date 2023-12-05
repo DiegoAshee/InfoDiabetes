@@ -1,0 +1,6 @@
+C:\Users\karen\OneDrive\Documentos\KAREN UNIVERSIDAD\PRO 3\UnivalleDifissilBank\DifficilBankDAO\bin\Debug\DifficilBankDAO.dll
+C:\Users\karen\OneDrive\Documentos\KAREN UNIVERSIDAD\PRO 3\UnivalleDifissilBank\DifficilBankDAO\bin\Debug\DifficilBankDAO.pdb
+C:\Users\karen\OneDrive\Documentos\KAREN UNIVERSIDAD\PRO 3\UnivalleDifissilBank\DifficilBankDAO\obj\Debug\DifficilBankDAO.csproj.AssemblyReference.cache
+C:\Users\karen\OneDrive\Documentos\KAREN UNIVERSIDAD\PRO 3\UnivalleDifissilBank\DifficilBankDAO\obj\Debug\DifficilBankDAO.csproj.CoreCompileInputs.cache
+C:\Users\karen\OneDrive\Documentos\KAREN UNIVERSIDAD\PRO 3\UnivalleDifissilBank\DifficilBankDAO\obj\Debug\DifficilBankDAO.dll
+C:\Users\karen\OneDrive\Documentos\KAREN UNIVERSIDAD\PRO 3\UnivalleDifissilBank\DifficilBankDAO\obj\Debug\DifficilBankDAO.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinarySmilesDAO", "DifficilBankDAO\VeterinarySmilesDAO.csproj", "{FCCA04D9-02EC-4D33-970B-D638CADFDDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinarySmiles_Web", "VeterinarySmiles_Web\VeterinarySmiles_Web.csproj", "{93372E2B-EDB6-487D-BE2A-D2697879F4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinariaSmilesPrueba", "VeterinariaSmilesPrueba\VeterinariaSmilesPrueba.csproj", "{95B12657-DC2E-4358-AAA0-1BB5E00C1A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCA04D9-02EC-4D33-970B-D638CADFDDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCA04D9-02EC-4D33-970B-D638CADFDDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCA04D9-02EC-4D33-970B-D638CADFDDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCA04D9-02EC-4D33-970B-D638CADFDDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93372E2B-EDB6-487D-BE2A-D2697879F4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93372E2B-EDB6-487D-BE2A-D2697879F4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93372E2B-EDB6-487D-BE2A-D2697879F4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93372E2B-EDB6-487D-BE2A-D2697879F4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B12657-DC2E-4358-AAA0-1BB5E00C1A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B12657-DC2E-4358-AAA0-1BB5E00C1A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B12657-DC2E-4358-AAA0-1BB5E00C1A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B12657-DC2E-4358-AAA0-1BB5E00C1A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {514A718F-6371-4B3A-ACFA-82E23611EDE1}
+	EndGlobalSection
+EndGlobal
